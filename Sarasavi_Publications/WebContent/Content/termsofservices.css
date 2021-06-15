@@ -1,0 +1,68 @@
+.commontitle {
+	margin: 0px;
+	padding: 8px 1em;
+	border: 0px;
+	font-variant-numeric: inherit;
+	font-variant-east-asian: inherit;
+	font-stretch: inherit;
+	font-size: 40px;
+	line-height: inherit;
+	font-family: 'Droid Sans', sans-serif;
+	vertical-align: baseline;
+	color: #8080ff;
+	text-align: left;
+}
+
+.commonsubtitle {
+	margin: 0px;
+	padding: 8px 1em 0px 1.4em;
+	border: 0px;
+	font-variant-numeric: inherit;
+	font-variant-east-asian: inherit;
+	font-stretch: inherit;
+	font-size: 24px;
+	line-height: inherit;
+	font-family: 'Open Sans', sans-serif;
+	vertical-align: baseline;
+	color: #8080ff;
+	text-align: left;
+}
+
+.subsubtitle {
+	margin: 0px;
+	padding: 10px 0px 5px 1.5em;
+	border: 0px;
+	font-variant-numeric: inherit;
+	font-variant-east-asian: inherit;
+	font-stretch: inherit;
+	font-size: 20px;
+	line-height: inherit;
+	font-family: 'Open Sans', sans-serif;
+	vertical-align: baseline;
+	color: #333333;
+	text-align: left;
+}
+
+.data {
+	margin: 0px;
+	padding: 8px 1em 8px 1.7em;
+	border: 0px;
+	font-variant-numeric: inherit;
+	font-variant-east-asian: inherit;
+	font-stretch: inherit;
+	font-size: 16px;
+	line-height: 1.7em;
+	font-family: 'Open Sans', sans-serif;
+	vertical-align: baseline;
+	color: #333333;
+	max-width: 900px;
+	text-align: left;
+}
+
+.sp {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	font: inherit;
+	vertical-align: baseline;
+}
